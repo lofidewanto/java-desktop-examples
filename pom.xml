@@ -15,5 +15,6 @@
     <modules>
         <module>awt-helloworld</module>
         <module>swing-helloworld</module>
+        <module>javafx-helloworld</module>
     </modules>
 </project>
